@@ -1,3 +1,13 @@
+.row {
+    margin: 0;
+}
+
+.fixed-top {
+    top: auto;
+}
+
 .col-md-5 img {
     width: 100%;
+    height: 90%;
 }
+
